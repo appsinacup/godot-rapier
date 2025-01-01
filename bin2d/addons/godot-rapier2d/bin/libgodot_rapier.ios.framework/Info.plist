@@ -7,7 +7,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
-	<string>libgodot_rapier.ios</string>
+	<string>libgodot_rapier.ios.dylib</string>
 	<key>CFBundleName</key>
 	<string>Godot Rapier2D</string>
 	<key>CFBundleDisplayName</key>
